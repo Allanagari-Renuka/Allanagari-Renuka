@@ -49,61 +49,43 @@ Tools
 Git · GitHub · VS Code · Postman
 
 🏆 Featured Projects
+
 🩺 Thyroid Diagnosis System (CNN & RNN)
 AI-driven diagnosis system achieving 95% accuracy
-
 Hybrid CNN-RNN model for clinical decision support
-
 Reduced manual analysis by 40%
-
 Real-time predictions via REST APIs
-
 Tech: TensorFlow, Keras, Flask, React.js, Node.js, MongoDB
 🔗 Repo: https://github.com/Allanagari-Renuka/thyroid-diagnosis
 
 🤟 Sign Language Recognition System
 Real-time gesture recognition with 95% accuracy
-
 CNN + LSTM based deep learning model
-
 Improved accessibility by 60%
-
 Smooth real-time inference using OpenCV
-
 Tech: Python, OpenCV, CNN, LSTM, Flask, React.js
 🔗 Repo: https://github.com/Allanagari-Renuka/sign-language-recognition
 
 🎫 Ticket Sales Prediction & Dynamic Pricing
 ML-powered pricing optimization system
-
 Improved pricing accuracy by 88%
-
 Increased revenue by 30%
-
 Complete booking workflow with analytics
-
 Tech: Machine Learning, FastAPI, React.js, Node.js, MongoDB
 🔗 Repo: https://github.com/Allanagari-Renuka/ticket-sales-prediction
 
 💼 Work Experience
 Frontend Developer — Ango Digital Technologies
 July 2025 – Present
-
 Developing AIKA Agentic AI platform (Web & Mobile)
-
 Built pixel-perfect UIs using React & React Native
-
 Integrated WebSockets for real-time chatbot communication
-
 Improved response latency with seamless handoff workflows
 
 Full Stack Developer Intern — Elfinity Technologies
 Nov 2024 – May 2025
-
 Built production-level corporate website
-
 Implemented SEO, mobile-first design, and clean architecture
-
 Delivered scalable frontend solutions using Tailwind CSS
 
 📊 GitHub Stats
@@ -113,34 +95,21 @@ Delivered scalable frontend solutions using Tailwind CSS
 
 
 </div>
-🎓 Education & Certifications
-B.Tech – Computer Science & Engineering (AI)
-G Pullaiah College of Engineering & Technology (2021–2025) — 88%
 
 Certifications
-
 Smart Coder – Smart Interviews
-
 Full Stack Internship – Make Skilled
-
 AWS Cloud Practitioner Essentials
-
 Data Science – GeeksforGeeks
 
 🎯 Currently Learning
 Advanced React patterns & performance
-
 Microservices with Node.js
-
 Advanced neural networks
-
 AWS cloud architecture
 
 📫 Let’s Connect
 📧 Email: allanagarirenuka28@gmail.com
-
-💼 LinkedIn: YOUR_LINKEDIN_URL
-
+💼 LinkedIn: https://www.linkedin.com/in/allanagari-renuka-8a9346263/
 🌐 Portfolio: https://portfolio-beige-two-49.vercel.app/
-
 📍 Bengaluru, India
