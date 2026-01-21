@@ -90,10 +90,8 @@ Delivered scalable frontend solutions using Tailwind CSS
 
 📊 GitHub Stats
 <div align="center">
-
-
-
-
+<img width="467" height="195" alt="image" src="https://github.com/user-attachments/assets/59f3274f-6c7b-4a8c-aab6-865ad613ef82" />
+<img width="300" height="165" alt="image" src="https://github.com/user-attachments/assets/44dc7168-649d-43d4-8ab7-9cb66a243d47" />
 </div>
 
 Certifications
