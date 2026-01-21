@@ -22,12 +22,10 @@ Location: Bengaluru, Karnataka, India
 Education: B.Tech in CSE (AI) – 88%
 Experience: 1+ years
 Current Role: Frontend Developer @ Ango Digital Technologies
+
 🎯 Passionate about building real-world, scalable applications
-
 🚀 Strong in MERN stack, AI/ML, and responsive UI/UX
-
 💡 Delivered 95% model accuracy and 60% accessibility improvements
-
 🔥 Currently working on an Agentic AI platform with real-time systems
 
 🛠️ Tech Stack
